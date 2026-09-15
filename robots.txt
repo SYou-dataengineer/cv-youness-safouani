@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://syou-dataengineer.github.io/cv-youness-safouani/sitemap.xml
