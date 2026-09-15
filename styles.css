@@ -677,10 +677,65 @@ button:focus-visible {
   color: var(--ink-soft);
 }
 
+.contact-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
 .contact-actions {
   display: flex;
   flex-direction: column;
   gap: 12px;
+}
+
+.qr-card {
+  display: grid;
+  grid-template-columns: 124px 1fr;
+  align-items: center;
+  gap: 18px;
+  padding: 16px;
+  border: 1px solid rgba(8, 127, 126, .24);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, .76);
+  color: var(--ink);
+  text-decoration: none;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.qr-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, .10);
+}
+
+.qr-image {
+  display: block;
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+  background: white;
+}
+
+.qr-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.qr-copy strong {
+  font-size: 1.05rem;
+}
+
+.qr-copy span,
+.qr-copy small {
+  color: var(--ink-soft);
+  line-height: 1.4;
+}
+
+.qr-copy small {
+  overflow-wrap: anywhere;
+  font-size: .72rem;
 }
 
 footer {
@@ -698,6 +753,16 @@ footer {
 
 .footer-inner p {
   margin: 0;
+}
+
+.footer-link {
+  color: white;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #5eead4;
 }
 
 @media (max-width: 900px) {
@@ -834,6 +899,15 @@ footer {
     gap: 10px;
   }
 
+  .qr-card {
+    grid-template-columns: 96px 1fr;
+  }
+
+  .qr-image {
+    width: 96px;
+    height: 96px;
+  }
+
   .contact-section {
     padding: 64px 0;
   }
@@ -855,7 +929,7 @@ footer {
   .site-header,
   .hero-actions,
   .section-action,
-  .contact-section,
+  .contact-actions,
   footer {
     display: none !important;
   }
@@ -867,7 +941,8 @@ footer {
 
   .hero,
   .section,
-  .section-dark {
+  .section-dark,
+  .contact-section {
     padding: 24px 0;
     background: white !important;
     color: #000 !important;
@@ -907,7 +982,28 @@ footer {
     color: #000;
   }
 
-  .timeline-item {
+  .timeline-item,
+  .qr-card {
     break-inside: avoid;
+  }
+
+  .contact-section {
+    padding: 24px 0;
+    border-top: 1px solid #bbb;
+  }
+
+  .contact-inner {
+    grid-template-columns: 1fr auto;
+    gap: 24px;
+  }
+
+  .qr-card {
+    grid-template-columns: 86px 190px;
+    box-shadow: none;
+  }
+
+  .qr-image {
+    width: 86px;
+    height: 86px;
   }
 }
