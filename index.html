@@ -205,67 +205,72 @@
     <section class="section section-dark" id="projets">
       <div class="container">
         <p class="section-kicker">Portfolio</p>
-        <h2>Projets en données</h2>
+        <h2>Projets sélectionnés</h2>
+        <p class="section-intro">
+          Trois réalisations complémentaires qui démontrent l’automatisation des données,
+          l’analyse décisionnelle et le déploiement d’applications fiables.
+        </p>
         <div class="projects-grid">
           <article class="project-card featured">
             <div class="project-topline">
-              <span>Analyse décisionnelle</span>
-              <span>Power BI · SQL</span>
-            </div>
-            <h3>Analyse de données et tableau de bord</h3>
-            <p>
-              Extraction avec SQL, nettoyage avec Power Query, modèle relationnel,
-              mesures DAX et tableau de bord interactif pour analyser les tendances
-              et faire ressortir les anomalies.
-            </p>
-            <a href="https://github.com/SYou-dataengineer/telecom-churn-analysis" target="_blank" rel="noopener">
-              Consulter le projet <span aria-hidden="true">↗</span>
-            </a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline">
-              <span>Données en temps réel</span>
-              <span>Kafka · Spark</span>
-            </div>
-            <h3>Architecture hybride de pipeline</h3>
-            <p>
-              Pipeline d’événements avec Kafka et Spark Structured Streaming,
-              stockage Snowflake et MongoDB, visualisation Power BI et
-              déploiement reproductible avec Docker Compose.
-            </p>
-            <a href="https://github.com/SYou-dataengineer/kafka-stream-processing-project" target="_blank" rel="noopener">
-              Consulter le projet <span aria-hidden="true">↗</span>
-            </a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline">
-              <span>Orchestration</span>
-              <span>Airflow · Python</span>
-            </div>
-            <h3>Pipeline de données avec Airflow</h3>
-            <p>
-              Orchestration d’un flux de données en Python, organisation des tâches,
-              automatisation du traitement et exécution reproductible.
-            </p>
-            <a href="https://github.com/SYou-dataengineer/airflow-data-pipeline-project" target="_blank" rel="noopener">
-              Consulter le projet <span aria-hidden="true">↗</span>
-            </a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline">
-              <span>Automatisation intelligente</span>
-              <span>Python · PDF</span>
+              <span>Pipeline documentaire</span>
+              <span>Python · OCR · CSV</span>
             </div>
             <h3>ComptaPrivée AI</h3>
             <p>
-              Application locale d’extraction de données de factures PDF vers CSV,
-              avec validation, tests automatisés et attention particulière à la confidentialité.
+              Application locale qui extrait et valide les données de documents comptables
+              PDF, Word et images, tout en conservant les informations confidentielles sur l’ordinateur.
             </p>
-            <a href="https://github.com/SYou-dataengineer/comptaprivee-ai" target="_blank" rel="noopener">
-              Consulter le projet <span aria-hidden="true">↗</span>
+            <ul class="project-highlights">
+              <li>Traitement PDF, DOCX et images avec OCR français/anglais</li>
+              <li>Contrôles comptables, correction humaine et traitement par lots</li>
+              <li>Export CSV compatible Excel et suite de tests automatisés</li>
+            </ul>
+            <a href="https://github.com/SYou-dataengineer/comptaprivee-ai" target="_blank" rel="noopener"
+               aria-label="Voir ComptaPrivée AI sur GitHub">
+              Voir le code et la documentation <span aria-hidden="true">↗</span>
+            </a>
+          </article>
+
+          <article class="project-card">
+            <div class="project-topline">
+              <span>Analyse décisionnelle</span>
+              <span>Python · SQL · KPI</span>
+            </div>
+            <h3>Analyse du désabonnement télécom</h3>
+            <p>
+              Étude de données simulées visant à repérer les segments à risque,
+              expliquer les facteurs de désabonnement et proposer des actions de fidélisation.
+            </p>
+            <ul class="project-highlights">
+              <li>Pipeline d’analyse reproductible avec Pandas et SQL</li>
+              <li>KPI, segmentation client et huit visualisations</li>
+              <li>Recommandations liées aux contrats, au soutien et à la satisfaction</li>
+            </ul>
+            <a href="https://github.com/SYou-dataengineer/telecom-churn-analysis" target="_blank" rel="noopener"
+               aria-label="Voir l’analyse du désabonnement télécom sur GitHub">
+              Voir le code et les résultats <span aria-hidden="true">↗</span>
+            </a>
+          </article>
+
+          <article class="project-card">
+            <div class="project-topline">
+              <span>Infrastructure applicative</span>
+              <span>Kubernetes · Docker · SQL</span>
+            </div>
+            <h3>KubeShop</h3>
+            <p>
+              Application e-commerce en microservices déployée sur Kubernetes,
+              avec persistance des données, mise à l’échelle automatique et observabilité.
+            </p>
+            <ul class="project-highlights">
+              <li>Cinq déploiements et huit pods validés</li>
+              <li>Sessions Redis et transactions PostgreSQL persistantes</li>
+              <li>HPA testé de 2 à 5 pods et suivi Prometheus/Grafana</li>
+            </ul>
+            <a href="https://github.com/SYou-dataengineer/kubeshop" target="_blank" rel="noopener"
+               aria-label="Voir KubeShop sur GitHub">
+              Voir l’architecture et les tests <span aria-hidden="true">↗</span>
             </a>
           </article>
         </div>
