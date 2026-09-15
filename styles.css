@@ -527,16 +527,23 @@ button:focus-visible {
   color: white;
 }
 
+.section-dark .section-intro {
+  max-width: 760px;
+  margin: -8px 0 0;
+  color: #cbd5e1;
+  font-size: 1.05rem;
+}
+
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
-  margin-top: 48px;
+  margin-top: 42px;
 }
 
 .project-card {
   display: flex;
-  min-height: 340px;
+  min-height: 430px;
   flex-direction: column;
   padding: 30px;
   border: 1px solid rgba(255, 255, 255, .13);
@@ -560,15 +567,30 @@ button:focus-visible {
 }
 
 .project-card h3 {
-  margin: 66px 0 14px;
+  margin: 48px 0 14px;
   color: white;
   font-size: 1.55rem;
   letter-spacing: -.03em;
 }
 
 .project-card p {
-  margin: 0 0 28px;
+  margin: 0 0 20px;
   color: #cbd5e1;
+}
+
+.project-highlights {
+  margin: 0 0 28px;
+  padding-left: 18px;
+  color: #cbd5e1;
+  font-size: .92rem;
+}
+
+.project-highlights li + li {
+  margin-top: 8px;
+}
+
+.project-highlights li::marker {
+  color: #5eead4;
 }
 
 .project-card a {
@@ -809,6 +831,10 @@ footer {
 
   .skills-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .projects-grid {
+    grid-template-columns: 1fr;
   }
 
   .education-grid {
