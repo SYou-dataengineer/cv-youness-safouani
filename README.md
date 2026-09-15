@@ -16,7 +16,13 @@ Portfolio de **Youness Safouani**, analyste de données à Montréal, spécialis
 
 - Réduction d’environ **40 %** du reporting manuel sous Excel grâce à Power BI et à l’automatisation
 - Pipelines SQL et Python pour préparer et consolider des métriques opérationnelles
-- Projets publics en analyse, traitement distribué, orchestration et automatisation intelligente
+- Projets publics en automatisation documentaire, analyse décisionnelle et déploiement conteneurisé
+
+### Projets sélectionnés
+
+1. **[ComptaPrivée AI](https://github.com/SYou-dataengineer/comptaprivee-ai)** — extraction locale et validation de données comptables depuis des fichiers PDF, Word et images avec Python et OCR.
+2. **[Telecom Customer Churn Analysis](https://github.com/SYou-dataengineer/telecom-churn-analysis)** — analyse métier avec Python, SQL, KPI, segmentation client et visualisations.
+3. **[KubeShop](https://github.com/SYou-dataengineer/kubeshop)** — application en microservices déployée sur Kubernetes avec Redis, PostgreSQL, HPA et observabilité Prometheus/Grafana.
 
 <p align="center">
   <a href="https://syou-dataengineer.github.io/cv-youness-safouani/">
