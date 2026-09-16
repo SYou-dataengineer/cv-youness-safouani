@@ -143,8 +143,14 @@ button {
   color: white;
 }
 
-.nav-links .language-switch {
+.language-switch {
+  display: inline-flex;
   min-width: 42px;
+  align-items: center;
+  justify-content: center;
+  font-size: .84rem;
+  line-height: 1;
+  text-decoration: none;
   padding: 7px 11px;
   border: 1px solid #b7eee4;
   border-radius: 999px;
@@ -155,11 +161,17 @@ button {
   letter-spacing: .04em;
 }
 
-.nav-links .language-switch:hover,
-.nav-links .language-switch:focus-visible {
+.language-switch:hover,
+.language-switch:focus-visible {
   border-color: var(--accent);
   background: white;
   color: var(--accent-dark);
+}
+
+.mobile-actions {
+  display: none;
+  align-items: center;
+  gap: 10px;
 }
 
 .menu-button {
@@ -807,6 +819,10 @@ footer {
 }
 
 @media (max-width: 900px) {
+  .mobile-actions {
+    display: flex;
+  }
+
   .menu-button {
     display: block;
   }
@@ -833,6 +849,10 @@ footer {
 
   .nav-links a {
     padding: 11px 12px;
+  }
+
+  .nav-links .language-switch {
+    display: none;
   }
 
   .nav-links .nav-cta {
