@@ -143,6 +143,25 @@ button {
   color: white;
 }
 
+.nav-links .language-switch {
+  min-width: 42px;
+  padding: 7px 11px;
+  border: 1px solid #b7eee4;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-dark);
+  text-align: center;
+  font-weight: 850;
+  letter-spacing: .04em;
+}
+
+.nav-links .language-switch:hover,
+.nav-links .language-switch:focus-visible {
+  border-color: var(--accent);
+  background: white;
+  color: var(--accent-dark);
+}
+
 .menu-button {
   display: none;
   width: 44px;
