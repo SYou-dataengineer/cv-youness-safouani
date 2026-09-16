@@ -2,6 +2,9 @@
 
 ## [🌐 Ouvrir mon CV professionnel en ligne](https://syou-dataengineer.github.io/cv-youness-safouani/)
 
+**Français :** [CV professionnel](https://syou-dataengineer.github.io/cv-youness-safouani/)  
+**English:** [Professional resume](https://syou-dataengineer.github.io/cv-youness-safouani/en.html)
+
 Portfolio de **Youness Safouani**, analyste de données à Montréal, spécialisé en visualisation, intelligence d’affaires et ingénierie de données.
 
 ### Profil
