@@ -5,27 +5,37 @@
 **Français :** [CV professionnel](https://syou-dataengineer.github.io/cv-youness-safouani/)  
 **English:** [Professional resume](https://syou-dataengineer.github.io/cv-youness-safouani/en.html)
 
-Portfolio de **Youness Safouani**, analyste de données à Montréal, spécialisé en visualisation, intelligence d’affaires et ingénierie de données.
+Portfolio bilingue de **Youness Safouani**, professionnel en TI, télécommunications et données à Montréal.
 
-### Profil
+### Objectif
 
-- Power BI, Power Query, DAX, SQL, Python et Excel avancé
-- Tableaux de bord, KPI, nettoyage et modélisation de données
-- Pipelines ETL/ELT, Spark, PySpark, Kafka, Snowflake et Databricks
-- Git/GitHub, Docker, Airflow, Jenkins et GitHub Actions
-- Français / Anglais — niveau professionnel
+- Stage de **210 heures** à partir du **3 janvier 2027**
+- Montréal ou télétravail
+- Intérêt pour les équipes TI, le soutien technique, l’analyse de données, la BI et l’ingénierie de données
 
-### Résultats et réalisations
+### Compétences principales
 
-- Réduction d’environ **40 %** du reporting manuel sous Excel grâce à Power BI et à l’automatisation
-- Pipelines SQL et Python pour préparer et consolider des métriques opérationnelles
-- Projets publics en automatisation documentaire, analyse décisionnelle et déploiement conteneurisé
+- Soutien technique : Windows, Linux, ordinateurs, téléphones intelligents, imprimantes et appareils connectés
+- Réseaux et télécommunications : Internet, Wi-Fi, modems, routeurs et configuration d’appareils
+- Données et BI : SQL, Python, Power BI, Power Query, DAX, Pandas, NumPy, Tableau et Scikit-learn
+- Ingénierie et infonuagique : Kafka, Spark, PySpark, Databricks, Snowflake, MongoDB, Docker, AWS et Azure
+
+### Expérience
+
+- **Québecor Inc. et ses filiales** — Technicien de service, télécommunications et soutien technique (2018–2026)
+- **Bell Canada** — Technicien en soutien technique, télécommunications (2013–2018)
+
+### Certificats récents
+
+- Cisco Networking Academy — Computer Hardware Basics
+- Fortinet Training Institute — Cybersecurity and Cloud Fundamentals 1.0
+- Fortinet Training Institute — Introduction to Next Generation Firewall 1.0
 
 ### Projets sélectionnés
 
-1. **[ComptaPrivée AI](https://github.com/SYou-dataengineer/comptaprivee-ai)** — extraction locale et validation de données comptables depuis des fichiers PDF, Word et images avec Python et OCR.
-2. **[Telecom Customer Churn Analysis](https://github.com/SYou-dataengineer/telecom-churn-analysis)** — analyse métier avec Python, SQL, KPI, segmentation client et visualisations.
-3. **[KubeShop](https://github.com/SYou-dataengineer/kubeshop)** — application en microservices déployée sur Kubernetes avec Redis, PostgreSQL, HPA et observabilité Prometheus/Grafana.
+1. **[ComptaPrivée AI](https://github.com/SYou-dataengineer/comptaprivee-ai)** — extraction et validation locales de données comptables avec Python et OCR.
+2. **Architecture hybride de pipeline de données** — Kafka, Spark Structured Streaming, Snowflake, MongoDB, Power BI et Docker Compose.
+3. **[Analyse exploratoire de données](https://github.com/SYou-dataengineer/python-data-exploration)** — préparation, visualisation, classification et régression avec Python.
 
 <p align="center">
   <a href="https://syou-dataengineer.github.io/cv-youness-safouani/">
