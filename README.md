@@ -7,11 +7,12 @@
 
 Portfolio bilingue de **Youness Safouani**, professionnel en TI, télécommunications et données à Montréal.
 
-### Objectif
+### Profil professionnel
 
-- Stage de **210 heures** à partir du **3 janvier 2027**
-- Montréal ou télétravail
-- Intérêt pour les équipes TI, le soutien technique, l’analyse de données, la BI et l’ingénierie de données
+- Plus de **5 ans d’expérience** en TI et télécommunications
+- Profil bilingue français-anglais
+- Disponible à Montréal ou en télétravail
+- Expertise en soutien technique, analyse de données, BI et ingénierie de données
 
 ### Compétences principales
 
