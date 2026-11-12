@@ -36,7 +36,7 @@ Portfolio bilingue de **Youness Safouani**, professionnel en TI, télécommunica
 
 1. **[ComptaPrivée AI](https://github.com/SYou-dataengineer/comptaprivee-ai)** — extraction et validation locales de données comptables avec Python et OCR.
 2. **Architecture hybride de pipeline de données** — Kafka, Spark Structured Streaming, Snowflake, MongoDB, Power BI et Docker Compose.
-3. **[Analyse exploratoire de données](https://github.com/SYou-dataengineer/python-data-exploration)** — préparation, visualisation, classification et régression avec Python.
+3. **[Analyse de l’attrition client en télécommunications](https://github.com/SYou-dataengineer/telecom-churn-analysis)** — analyse décisionnelle avec Python, SQL, KPI et visualisations pour orienter les actions de fidélisation.
 
 <p align="center">
   <a href="https://syou-dataengineer.github.io/cv-youness-safouani/">
