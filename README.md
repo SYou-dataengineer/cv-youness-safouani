@@ -1,55 +1,28 @@
-# CV professionnel — Youness Safouani
+# Portfolio professionnel — Youness Safouani
 
-## [🌐 Ouvrir mon CV professionnel en ligne](https://syou-dataengineer.github.io/cv-youness-safouani/)
+Portfolio bilingue d’un analyste de données spécialisé en **SQL**, **Power BI**, préparation des données et analyse décisionnelle.
 
-**Français :** [CV professionnel](https://syou-dataengineer.github.io/cv-youness-safouani/)  
-**English:** [Professional resume](https://syou-dataengineer.github.io/cv-youness-safouani/en.html)
+## Consulter le portfolio
 
-Portfolio bilingue de **Youness Safouani**, professionnel en TI, télécommunications et données à Montréal.
+- [Version française](https://syou-dataengineer.github.io/cv-youness-safouani/)
+- [English version](https://syou-dataengineer.github.io/cv-youness-safouani/en.html)
 
-### Profil professionnel
+## Télécharger le CV
 
-- Plus de **5 ans d’expérience** en TI et télécommunications
-- Profil bilingue français-anglais
-- Disponible à Montréal ou en télétravail
-- Expertise en soutien technique, analyse de données, BI et ingénierie de données
+- [CV en français — PDF](https://syou-dataengineer.github.io/cv-youness-safouani/cv-youness-safouani-fr.pdf)
+- [English résumé — PDF](https://syou-dataengineer.github.io/cv-youness-safouani/cv-youness-safouani-en.pdf)
 
-### Compétences principales
+## Profil
 
-- Soutien technique : Windows, Linux, ordinateurs, téléphones intelligents, imprimantes et appareils connectés
-- Réseaux et télécommunications : Internet, Wi-Fi, modems, routeurs et configuration d’appareils
-- Données et BI : SQL, Python, Power BI, Power Query, DAX, Pandas, NumPy, Tableau et Scikit-learn
-- Ingénierie et infonuagique : Kafka, Spark, PySpark, Databricks, Snowflake, MongoDB, Docker, AWS et Azure
+- SQL : jointures, CTE, agrégations, fonctions de fenêtre et validation
+- Power BI : Power Query, DAX, modélisation, KPI et rapports interactifs
+- Python et Excel : exploration, transformation, contrôle et automatisation
+- Données et pipelines : ETL/ELT, PostgreSQL, Snowflake, Spark et Kafka
 
-### Expérience
+## Projets présentés
 
-- **Québecor Inc. et ses filiales** — Technicien de service, télécommunications et soutien technique (2018–2026)
-- **Bell Canada** — Technicien en soutien technique, télécommunications (2013–2018)
+- Analyse de l’attrition client en télécommunications
+- ComptaPrivée AI
+- Pipeline analytique pour la BI
 
-### Certificats récents
-
-- Cisco Networking Academy — Computer Hardware Basics
-- Fortinet Training Institute — Cybersecurity and Cloud Fundamentals 1.0
-- Fortinet Training Institute — Introduction to Next Generation Firewall 1.0
-
-### Projets sélectionnés
-
-1. **[ComptaPrivée AI](https://github.com/SYou-dataengineer/comptaprivee-ai)** — extraction et validation locales de données comptables avec Python et OCR.
-2. **Architecture hybride de pipeline de données** — Kafka, Spark Structured Streaming, Snowflake, MongoDB, Power BI et Docker Compose.
-3. **[Analyse de l’attrition client en télécommunications](https://github.com/SYou-dataengineer/telecom-churn-analysis)** — analyse décisionnelle avec Python, SQL, KPI et visualisations pour orienter les actions de fidélisation.
-
-<p align="center">
-  <a href="https://syou-dataengineer.github.io/cv-youness-safouani/">
-    <img src="qr-portfolio.svg" width="160" alt="QR code vers le CV professionnel de Youness Safouani">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Scannez le QR code ou cliquez ici :</strong><br>
-  <a href="https://syou-dataengineer.github.io/cv-youness-safouani/">https://syou-dataengineer.github.io/cv-youness-safouani/</a>
-</p>
-
-### Contact
-
-- Courriel : [youness.analyses@gmail.com](mailto:youness.analyses@gmail.com)
-- GitHub : [SYou-dataengineer](https://github.com/SYou-dataengineer)
+Montréal, Québec — français et anglais professionnels.
